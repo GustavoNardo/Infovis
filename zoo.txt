@@ -1,3 +1,20 @@
+Creating a visualization requires a number of nuanced judgments
+Protovis
+Stacked graph 
+Small Multiples
+Horizon Graphs
 q-q plot 
 streamgraph
 visual encoding
+Parallel Coordinates
+Flow Maps
+Choropleth Maps
+Graduated Symbol Maps
+Hierarchies
+Adjacency Diagrams
+Enclosure Diagrams
+Networks
+Force-Directed Layout
+Arc Diagrams
+Matrix Views
+
