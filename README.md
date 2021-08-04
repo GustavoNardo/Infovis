@@ -1,2 +1,2 @@
-# Infovis1
+# Infovis
 Tarea 1 Paper
